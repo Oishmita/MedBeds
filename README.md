@@ -27,11 +27,15 @@ Then, to book a bed, the application has to be re-started.
 # Note
 
 Technology used : ESP32 & Piezoelectric sensors
+
 Components used : Breadboard, 2.7k resistors & Jumpers
 
 Editors used : Visual Studio Code & Arduino IDE
+
 DBMS used : MySQL via PhpMyadmin & XAMPP (for web server hosting)
+
 Programming & Scripting Languages used: C++, Python & PHP
+
 Library used for UI : PyQt5
 
 All the UI files should be present in one folder for the application to run.
